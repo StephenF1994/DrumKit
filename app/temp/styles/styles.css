@@ -1,0 +1,89 @@
+
+.wrapper{
+	width: 100%;
+
+}
+
+	.wrapper h1{
+	font-size: 2rem;
+	text-align: center;
+	
+	}
+
+
+
+
+.container{
+	width: 100%;
+	text-align: center;
+	
+
+
+
+
+}
+
+
+
+
+.__piano{
+	margin-top: 10%;
+}
+
+
+
+
+.__drums{
+	margin-top: 10%;
+}
+
+
+
+
+.key{
+	width: 4rem;
+	height: 80px;
+	
+	display: inline-block;
+	margin-left: 2%;
+	margin-right: 2%;
+	transition: ease-in-out 0.1s;
+
+}
+
+
+
+
+.key kbd{
+	font-size: 3rem;
+	position: relative;
+	top: 15%;
+	color: blue
+}
+
+
+
+
+.key span{
+	display: block;
+	position: relative;
+	bottom: -50%;
+}
+
+
+
+
+.PressKey{
+	
+	background-color: red;
+	-webkit-transform: scale(1.2);
+	        transform: scale(1.2);
+}
+
+
+
+
+
+
+
+
